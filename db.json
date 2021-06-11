@@ -1,28 +1,28 @@
 {
-  'events': [
+  "events": [
     {
-      'id': 1,
-      'title': "International Mother Language Day.",
-      'time': "6:00",
-      'date': "21 February, 2022",
+      "id": 1,
+      "title": "International Mother Language Day.",
+      "time": "6:00",
+      "date": "21 February, 2022",
     },
     {
-      'id': 2,
-      'title': "Independence Day.",
-      'time': "10:00",
-      'date': "26 March, 2022",
+      "id": 2,
+      "title": "Independence Day.",
+      "time": "10:00",
+      "date": "26 March, 2022",
     },
     {
-      'id': 3,
-      'title': "Bangla New Year",
-      'time': "9:00",
-      'date': "15 June 2021",
+      "id": 3,
+      "title": "Bangla New Year",
+      "time": "9:00",
+      "date": "15 June 2021",
     },
     {
-      'id': 4,
-      'title': "Victory Day.",
-      'time': "12:00",
-      'date': "16 December, 2022",
+      "id": 4,
+      "title": "Victory Day.",
+      "time": "12:00",
+      "date": "16 December, 2022",
     }
   ]
 }
